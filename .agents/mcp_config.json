@@ -1,0 +1,7 @@
+{
+    "mcpServers": {
+        "mcp_wiki": {
+            "serverUrl": "http://0.0.0.0:8093/mcp"
+        }
+    }
+}
